@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1687437252 source:c:\users\usuario\desktop\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PROTOTIPADOS.h"
+	<string.h>
+
+1687439803 c:\users\usuario\desktop\tp final\prototipados.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687441548 source:c:\users\usuario\desktop\tp final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"PROTOTIPADOS.h"
+	<string.h>
+	<stdlib.h>
+
+1687446100 source:d:\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PROTOTIPADOS.h"
+	<string.h>
+
+1687446086 d:\tp final\prototipados.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687446086 source:d:\tp final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"PROTOTIPADOS.h"
+	<string.h>
+	<stdlib.h>
+
